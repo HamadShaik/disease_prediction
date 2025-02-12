@@ -6,7 +6,7 @@ Disease Prediction System Overview This is a machine learning-based disease pred
 🛠 Technologies Used Python 🐍 Streamlit (for UI) Scikit-learn (for model training) Pandas & NumPy (for data processing) Pickle (for model storage) ⚡ Features ✔ Predicts Diabetes, Heart Disease, and Parkinson’s Disease ✔ User-friendly Streamlit interface ✔ Models trained on real-world datasets ✔ Fast and accurate results
 
 🚀 How to Run 
-1️⃣ Clone the repository: https://github.com/HamadShaik/Disease-Prediction 
+1️⃣ Clone the repository: https://github.com/HamadShaik/disease_prediction 
       --> cd Disease-Prediction
 
 2️⃣ Install dependencies: pip install -r requirements.txt
