@@ -7,7 +7,7 @@ Disease Prediction System Overview This is a machine learning-based disease pred
 
 🚀 How to Run 
 1️⃣ Clone the repository: https://github.com/HamadShaik/disease_prediction 
-      --> cd Disease-Prediction
+      --> cd disease_prediction
 
 2️⃣ Install dependencies: pip install -r requirements.txt
 
